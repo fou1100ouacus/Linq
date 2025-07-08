@@ -1,0 +1,15 @@
+D:\Programming\linq\DefaultIfEmpty\bin\Debug\net9.0\DefaultIfEmpty.deps.json
+D:\Programming\linq\DefaultIfEmpty\bin\Debug\net9.0\DefaultIfEmpty.dll
+D:\Programming\linq\DefaultIfEmpty\bin\Debug\net9.0\DefaultIfEmpty.pdb
+D:\Programming\linq\DefaultIfEmpty\bin\Debug\net9.0\Sharedd.dll
+D:\Programming\linq\DefaultIfEmpty\bin\Debug\net9.0\Sharedd.pdb
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultIfEmpty.csproj.AssemblyReference.cache
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultIfEmpty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultIfEmpty.AssemblyInfoInputs.cache
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultIfEmpty.AssemblyInfo.cs
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultIfEmpty.csproj.CoreCompileInputs.cache
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultI.C767330B.Up2Date
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultIfEmpty.dll
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\refint\DefaultIfEmpty.dll
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\DefaultIfEmpty.pdb
+D:\Programming\linq\DefaultIfEmpty\obj\Debug\net9.0\ref\DefaultIfEmpty.dll
