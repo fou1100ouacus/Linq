@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "D5Je786oUP0=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\linq\\Sharedd\\Sharedd.csproj",
+=======
+  "dgSpecHash": "/SHH1FUhm3M=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\linq\\GenerateOPLinq\\GenerateOPLinq.csproj",
+>>>>>>> a9f84d35722d74028dd2238fca2f8029592ca3ed
+  "expectedPackageFiles": [],
+  "logs": []
+}

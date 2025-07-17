@@ -1,0 +1,11 @@
+D:\Programming\linq\Sharedd\bin\Debug\net9.0\Sharedd.deps.json
+D:\Programming\linq\Sharedd\bin\Debug\net9.0\Sharedd.dll
+D:\Programming\linq\Sharedd\bin\Debug\net9.0\Sharedd.pdb
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\Sharedd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\Sharedd.AssemblyInfoInputs.cache
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\Sharedd.AssemblyInfo.cs
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\Sharedd.csproj.CoreCompileInputs.cache
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\Sharedd.dll
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\refint\Sharedd.dll
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\Sharedd.pdb
+D:\Programming\linq\Sharedd\obj\Debug\net9.0\ref\Sharedd.dll
